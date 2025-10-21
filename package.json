@@ -1,0 +1,24 @@
+{
+  "name": "mercor-interview-code-review",
+  "version": "1.0.0",
+  "description": "My Experiences of Code Review during Mercor Job Interview",
+  "homepage": "https://github.com/workfromhome130/mercor-interview-code-review#readme",
+  "bugs": {
+    "url": "https://github.com/workfromhome130/mercor-interview-code-review/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/workfromhome130/mercor-interview-code-review.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.17.1",
+    "apollo-server": "^3.13.0"
+  }
+}
